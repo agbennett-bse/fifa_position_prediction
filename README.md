@@ -18,5 +18,4 @@ In this project, we conducted extensive exploratory analysis, which helps to und
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept ParlaMint-ES.tgz within this repo.
     
